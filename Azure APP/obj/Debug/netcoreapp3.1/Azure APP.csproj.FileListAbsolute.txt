@@ -1,0 +1,50 @@
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\Azure APP.exe
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\Azure APP.deps.json
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\Azure APP.runtimeconfig.json
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\Azure APP.runtimeconfig.dev.json
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\Azure APP.dll
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\Azure APP.pdb
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\Azure APP.Views.dll
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\Azure APP.Views.pdb
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.AssemblyInfoInputs.cache
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.AssemblyInfo.cs
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.csproj.CoreCompileInputs.cache
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.MvcApplicationPartsAssemblyInfo.cache
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.RazorAssemblyInfo.cache
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.RazorAssemblyInfo.cs
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\staticwebassets\Azure APP.StaticWebAssets.Manifest.cache
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\staticwebassets\Azure APP.StaticWebAssets.xml
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\scopedcss\bundle\Azure APP.styles.css
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.TagHelpers.input.cache
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.TagHelpers.output.cache
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.RazorCoreGenerate.cache
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.RazorTargetAssemblyInfo.cache
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.RazorTargetAssemblyInfo.cs
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.Views.pdb
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.dll
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.pdb
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.genruntimeconfig.cache
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.csproj.CopyComplete
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.Saml.dll
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Xml.dll
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\Sustainsys.Saml2.dll
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\Sustainsys.Saml2.AspNetCore2.dll
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Repos\Azure SSO Demo\Azure APP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ViewImports.cshtml.g.cs
+E:\Repos\Azure SSO Demo\Azure APP\obj\Debug\netcoreapp3.1\Azure APP.csprojAssemblyReference.cache
